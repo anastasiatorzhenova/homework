@@ -6,4 +6,4 @@
 
 # [Torzhenova Anastasia](mailto:torzhenova@bk.ru)
 
-* [telegram](anastasia_torzhenova)
+* [telegram](http://t.me/anastasia_torzhenova)
