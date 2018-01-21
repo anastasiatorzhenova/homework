@@ -9,5 +9,8 @@
  * [Torzhenova Anastasia](mailto:torzhenova@bk.ru)
  * [telegram](http://t.me/anastasia_torzhenova)
  #### Теперь расскажу про свой город
- 
+ 1. Москва ~is the capital of Great Britain~ - столица России
+ 2. Была основана в 1147 году
+ 3. Город очень динамичен, тут все быстро и шумно! 
+ 4. ❤
  
