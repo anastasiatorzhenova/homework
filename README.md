@@ -6,5 +6,8 @@
 + Дата рождения *30.12.1999*
 - Паспортные данные *засекречено*
 ### со мной можно связаться!
- [Torzhenova Anastasia](mailto:torzhenova@bk.ru)
- [telegram](http://t.me/anastasia_torzhenova)
+ * [Torzhenova Anastasia](mailto:torzhenova@bk.ru)
+ * [telegram](http://t.me/anastasia_torzhenova)
+ #### Теперь расскажу про свой город
+ 
+ 
