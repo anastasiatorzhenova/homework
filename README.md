@@ -32,4 +32,4 @@
 ## Ссылочки на меня 
 1. она одна ~и единственная~ (потому что их много)
 [ask me on...](http://ask.fm/Nastya_summer2014 "здесь можно задать мне интерсный вопрос, но я скорее всего не отвечу")
-2. ![](https://matteroffactsblog.files.wordpress.com/2013/09/21609569.jpg)
+2. ![](https://matteroffactsblog.files.wordpress.com/2013/09/21609569.jpg) ![](https://ru4.anyfad.com/items/t1@37ea197c-2188-44dd-9fa4-19e07bde85b8/Kot-Saymona.jpg)
