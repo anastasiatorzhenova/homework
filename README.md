@@ -3,14 +3,18 @@
 ## Здесь я немного расскажу о себе
 + ФИО *Торженова Анастасия Андреевна* 
 - Возраст *18 лет*
-+ Дата рождения *30.12.1999*
++ Про рождение
+  - Дата *30.12.1999*
+  + Место *Москва*
 - Паспортные данные *засекречено*
 ### со мной можно связаться!
  * [Torzhenova Anastasia](mailto:torzhenova@bk.ru)
- * [telegram](http://t.me/anastasia_torzhenova)
+ * [telegram](http://t.me/anastasia_torzhenova "пишите сюда")
  #### Теперь расскажу про свой город
  1. Москва ~is the capital of Great Britain~ - столица России
  2. Была основана в 1147 году
  3. Город очень динамичен, тут все быстро и шумно! 
  4. ❤
- 
+ ##### Мои интересы 
+ + СОБАКИ
+ ![](https://findthe.pet/wp-content/uploads/2016/09/jack-russell-puppies-for-sale-temperament-1024x768.jpg)
